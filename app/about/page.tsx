@@ -44,7 +44,7 @@ export default function AboutPage() {
                   variant="outline"
                   className="text-lg py-2 px-4 bg-green-50 dark:bg-green-900/20 border-green-200 dark:border-green-800"
                 >
-                  <span className="font-semibold">Developed by MaverickScripts</span>
+                  <span className="font-semibold">Developed by Saket Bishnu</span>
                 </Badge>
               </div>
             </CardContent>
